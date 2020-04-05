@@ -8,7 +8,7 @@ Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2045438856
 
 Introduction:
 
-	1/ Add deposits to @ banking account according to online time (reward every n minutes)
+	1/ Add deposits to players @banking account according to online time (reward every n minutes)
 	2/ You can customize the reward interval and how many deposits are rewarded each time, and write some events to the record file.
 	
 Special note:
